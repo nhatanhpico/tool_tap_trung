@@ -2,6 +2,5 @@
 <b>Tool Tập Trung v1.0<br>
 Yêu cầu cài đặt thư viện: PIL, tkinter </b><br>
 Kênh Youtube: https://www.youtube.com/channel/UCYl4-jjbobDXhiLj-HQuKqw <br>
-Facebook: https://www.facebook.com/minkalexvina <br>
-Instagram: https://instagram.com/minkalexvina <br>
-Gia nhập group Dân IT tại đây: https://www.facebook.com/groups/803129063825326/ <br>
+Facebook: https://www.facebook.com/nhatanhpico <br>
+Instagram: https://instagram.com/nhatanhpico <br>
